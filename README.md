@@ -34,5 +34,5 @@ This project is for educational and illustrative purposes only. It is not affili
 
 ## About the Author
 
-* Revati Ganorkar | Aspiring Product Manager | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
 
