@@ -13,7 +13,7 @@ This project offers a comprehensive look into Instagram's product journey, marke
 
 ## Figma File
 
-* **[[Link to Figma Project](https://www.figma.com/proto/oGwTiKGW4ap0YWRvNLLryK/Instagram%3A-Product-Roadmap-and-Market-Strategy?node-id=1-314&t=bJs5cu7v1JOBuZJb-1)]** 
+* **[[Link to Figma Project](https://www.figma.com/proto/oGwTiKGW4ap0YWRvNLLryK/Instagram%3A-Product-Roadmap-and-Market-Strategy?node-id=1-366&t=bJs5cu7v1JOBuZJb-1)]** 
 
 ## Key Skills Demonstrated
 
